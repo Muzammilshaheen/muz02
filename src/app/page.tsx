@@ -20,7 +20,7 @@ const page = () => {
        particularly in technology, education, or business depending on context.
         People who succeed through hard work often demonstrate perseverance,
         Muzammil Shaheen is known for his dedication and hard work in various fields,
-       particularly in technology, education, or business depending on context.
+       particularly in technology, education, or business depending on context
         People who succeed through hard work often demonstrate perseverance,
         Muzammil Shaheen is known for his dedication and hard work in various fields,
        particularly in technology, education, or business depending on context.
